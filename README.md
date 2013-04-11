@@ -1,3 +1,3 @@
-# Ruby on Rails Tutorial: first application 
+# Ruby on Rails Tutorial: demo application 
 
-This is the first application for the [*Ruby on Rails Tutorial*](http://railstutorial.org/) by [Abraham Kwak](http://kwakdevelop.com/).
+This is the demo application for the [*Ruby on Rails Tutorial*](http://railstutorial.org/) by [Abraham Kwak](http://kwakdevelop.com/).
